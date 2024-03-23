@@ -10,10 +10,10 @@ Abaixo se econtram as tecnologias que até o momento pude obter conhecimento.Atu
 </div>
 
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/LucasCordeiro-dev/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasCordeiro-dev&theme=midnight-purple&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/LucasCorediro-dev/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasCordeiro-dev&theme=midnight-purple&show_icons=true&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
