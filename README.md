@@ -9,14 +9,16 @@
   <img align="center" alt="Cord-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-
-  <a href="https://github.com/LucasCordeiro-dev/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasCordeiro-dev&theme=midnight-purple&show_icons=true" />
+<div align="center">
+   <a href="https://github.com/LucasCordeiro-dev/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasCordeiro-dev&theme=midnight-purple&show_icons=true" />
 </a>
 <a href="https://github.com/LucasCorediro-dev/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasCordeiro-dev&theme=midnight-purple&show_icons=true&layout=compact&langs_count=8&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasCordeiro-dev&theme=midnight-purple&show_icons=true&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+</div>
+ 
 
 
 
