@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lucas+Cordeiro!;" />
 </h1>
 
-## Olá! Me chamo Lucas e aqui você irá encontrar toda a evolução  de meus projetos e conhecimentos ao longo da minha jornada de dev.
+## Hi there! My name is Lucas and here you gonna find all my projects evolution and knowledge into my developer's journey
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/lucascordeiroramos/" target="_blank">
