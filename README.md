@@ -25,7 +25,7 @@
   <h2>📌 My Contributions 📌</h2>
   <br>
    
-  ![Status](./profile-3d-contrib/profile-night-green.svg)
+  ![Status](./profile-3d-contrib/profile-night-view.svg)
   
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasCordeiro-dev&theme=transparent&utcOffset=-3)](https://github.com/LucasCordeiro-dev/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasCordeiro-dev&theme=transparent)](https://github.com/LucasCordeiro-dev/github-profile-summary-cards) |  
  | ----------- | ----------- |
