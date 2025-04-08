@@ -11,7 +11,7 @@
 📚 Sempre aprendendo: Backend,Frontend, dados e boas práticas de código  
 </br>
 <div align="center"> 
- <a href="https://www.linkedin.com/in/lucascordeiroramos/" target="_blank">
+ <a href="https://www.linkedin.com/in/lucasramosdeveloper/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://api.whatsapp.com/send?phone=5511971518404" target="_blank">
