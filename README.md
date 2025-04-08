@@ -2,8 +2,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lucas+Cordeiro!;" />
 </h1>
 
-## Hi there! My name is Lucas and here you gonna find all my projects evolution and knowledge into my developer's journey
+<h2 align = "Center">:open_file_folder: Sobre mim :open_file_folder:</h2>
 
+🎓 Formado em Gestão de TI  
+👨‍💻 Desenvolvedor .NET C# | Razor, HTML, CSS, JavaScript  
+🔧 Experiência com Git, Linux, Azure DevOps e Power BI  
+🚀 Apaixonado por resolver problemas reais com tecnologia  
+📚 Sempre aprendendo: Backend,Frontend, dados e boas práticas de código  
+</br>
 <div align="center"> 
  <a href="https://www.linkedin.com/in/lucascordeiroramos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -11,17 +17,36 @@
 <a href="https://api.whatsapp.com/send?phone=5511971518404" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=green"/>
 </a>
-
 </div>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+
+<h2 align ="center">🌱 Atualmente aprendendo 🌱</h2>
+    
+- Fundamentos .NET
+- Props,métodos,Constructor
+- Exceptions
+- Tuplas,Operador ternário
+- Serializar objetos
+- Stack,Heap,Garbage Collector
+- POO -> Abstraçao,Encapsulamento,Herança,Polimorfismo
+- Classes Abstratas (atualmente)
+- Banco de dados relacionais e nao relacionais com SQL Server e MongoDB
+- Integrando APIs com NET Entity Framework
+- Nuvem com Microsoft Azure
+- Testes unitários
+</div>
+<br/>
+
+<h2 align="center">⚒️ Linguagens & Frameworks ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,visualstudio,github,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,mysql,c#" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,visualstudio,html,git,css,vscode" />
+    <img src="https://skillicons.dev/icons?i=javascript,linux,c#" /><br>
 </div>
+<br/>
 
 <div align="center">
-  <h2>📌 My Contributions 📌</h2>
+  <h2>📌 Contribuições 📌</h2>
   <br>
    
   ![Status](./profile-3d-contrib/profile-night-view.svg)
