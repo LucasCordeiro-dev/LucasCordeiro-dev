@@ -29,7 +29,7 @@
 - Serializar objetos ✅
 - Stack,Heap,Garbage Collector ✅
 - POO -> Abstraçao,Encapsulamento,Herança,Polimorfismo ✅
-- Classes Abstratas (atualmente)
+- Classes Abstratas ✅
 - Banco de dados relacionais e nao relacionais com SQL Server e MongoDB
 - Integrando APIs com NET Entity Framework
 - Nuvem com Microsoft Azure
