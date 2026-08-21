@@ -15,22 +15,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </div>
-<br/>
-
-<h2 align ="center">🌱 Atualmente aprendendo 🌱</h2>
-    
-- Fundamentos .NET ✅
-- Props,métodos,Constructor ✅
-- Exceptions ✅
-- Tuplas,Operador ternário ✅
-- Serializar objetos ✅
-- Stack,Heap,Garbage Collector ✅
-- POO -> Abstraçao,Encapsulamento,Herança,Polimorfismo ✅
-- Classes Abstratas ✅
-- Banco de dados relacionais e nao relacionais com SQL Server e MongoDB ✅
-- Integrando APIs com NET Entity Framework ✅
-- Nuvem com Microsoft Azure
-- Testes unitários
 </div>
 <br/>
 
