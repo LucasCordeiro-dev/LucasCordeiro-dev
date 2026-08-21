@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lucas+Cordeiro!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lucas+!;" />
 </h1>
 
 <h2 align = "Center">:open_file_folder: Sobre mim :open_file_folder:</h2>
@@ -32,7 +32,7 @@
    
   ![Status](./profile-3d-contrib/profile-night-view.svg)
   
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasCordeiro-dev&theme=transparent&utcOffset=-3)](https://github.com/LucasCordeiro-dev/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasCordeiro-dev&theme=transparent)](https://github.com/LucasCordeiro-dev/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wh0am1Cord&theme=transparent&utcOffset=-3)](https://github.com/LucasCordeiro-dev/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasCordeiro-dev&theme=transparent)](https://github.com/LucasCordeiro-dev/github-profile-summary-cards) |  
  | ----------- | ----------- |
   <br/>
 </div>
